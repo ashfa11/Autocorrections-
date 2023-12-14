@@ -1,5 +1,5 @@
 # Autocorrections-
-Artificial intelligence module project 
+Artificial intelligence module project
 The spelling corrector in Python supports Tamil Language.
 Based on:https://github.com/filyp/autocorrect
 
